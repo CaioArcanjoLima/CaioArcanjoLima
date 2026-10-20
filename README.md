@@ -121,7 +121,7 @@ Problem Solving ███░░░░░░░  Training every day
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random quote" />
+  <img src="./src/colossians-3-23.svg" alt="Colossians 3:23" width="700" />
 </p>
 
 <p align="center">

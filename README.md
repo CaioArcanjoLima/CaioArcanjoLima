@@ -28,8 +28,9 @@
 
 ```text
 + Software Engineering student
-+ Currently learning Java and programming fundamentals
-+ Interested in automation, software development, and technology
++ Currently learning Java and exploring new technologies
++ Interested in industrial automation, robotics, control systems, and embedded systems
++ Fascinated by the intersection of software, electronics, and the physical world
 + Building my skills one line of code at a time
 ```
 

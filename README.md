@@ -1,13 +1,11 @@
 
-<!-- ==================== MORDOR THEME ==================== -->
+ <!-- ==================== MORDOR THEME ==================== -->
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/41/60/61/416061b9d95e206d7bbeb51e644cca6e.gif" width="100%" alt="Star Wars animated banner" />
 </p>
 
- <!-- ==================== STAR WARS x MORDOR THEME ==================== -->
-
-
+<!-- ==================== STAR WARS x MORDOR THEME ==================== -->
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=34&pause=1200&color=C0392B&center=true&vCenter=true&width=800&height=70&lines=CAIO+LIMA;Software+Engineering+Student;One+Code+to+Rule+Them+All;May+the+Force+Be+with+My+Code" alt="Typing SVG" />
@@ -41,25 +39,52 @@
 
 ---
 
+
+
+
 ## ⚔️ My Arsenal
 
-<p align="center">
-  <b>Currently Learning</b>
-  <br><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" alt="Java" title="Java" />
-</p>
-
-<p align="center">
-  <b>Tools I Use</b>
-  <br><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" alt="Visual Studio Code" title="Visual Studio Code" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" alt="Git" title="Git" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" alt="GitHub" title="GitHub" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>📚 Currently Learning</h3>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="42" title="Java" alt="Java"/>
+      &nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="42" title="Python" alt="Python"/>
+      <br/>
+      <sub>Building my programming foundations</sub>
+    </td>
+    <td align="center" width="50%">
+      <h3>💻 Web Technologies</h3>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="42" title="HTML5" alt="HTML5"/>
+      &nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="42" title="CSS3" alt="CSS3"/>
+      <br/>
+      <sub>Web structure and styling</sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <h3>🛠️ Development Tools</h3>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="38" title="Visual Studio Code" alt="Visual Studio Code"/>
+      &nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="38" title="IntelliJ IDEA" alt="IntelliJ IDEA"/>
+      &nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="38" title="Git" alt="Git"/>
+      &nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="38" title="GitHub" alt="GitHub"/>
+      <br/>
+      <sub>Code · Version Control · Repositories</sub>
+    </td>
+  </tr>
+</table>
 
 ---
+
+
+
+
+
 
 ## 🔥 GitHub Statistics
 

@@ -2,6 +2,10 @@
 <!-- ==================== MORDOR THEME ==================== -->
 
 <p align="center">
+  <img src="https://i.pinimg.com/originals/41/60/61/416061b9d95e206d7bbeb51e644cca6e.gif" width="100%" alt="Star Wars animated banner" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=34&pause=1200&color=C0392B&center=true&vCenter=true&width=800&height=70&lines=CAIO+LIMA;Software+Engineering+Student;One+Code+to+Rule+Them+All;May+the+Force+Be+with+My+Code" alt="Typing SVG" />
 </p>
 

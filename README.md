@@ -5,6 +5,10 @@
   <img src="https://i.pinimg.com/originals/41/60/61/416061b9d95e206d7bbeb51e644cca6e.gif" width="100%" alt="Star Wars animated banner" />
 </p>
 
+ <!-- ==================== STAR WARS x MORDOR THEME ==================== -->
+
+
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=34&pause=1200&color=C0392B&center=true&vCenter=true&width=800&height=70&lines=CAIO+LIMA;Software+Engineering+Student;One+Code+to+Rule+Them+All;May+the+Force+Be+with+My+Code" alt="Typing SVG" />
 </p>
@@ -32,6 +36,8 @@
 ```
 
 > *"All we have to decide is what to do with the time that is given us."*
+>
+> — Gandalf, The Lord of the Rings
 
 ---
 
@@ -40,15 +46,17 @@
 <p align="center">
   <b>Currently Learning</b>
   <br><br>
-  <img src="https://img.shields.io/badge/Java-Learning-C0392B?style=for-the-badge&logo=openjdk&logoColor=F5C16C" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" alt="Java" title="Java" />
 </p>
 
 <p align="center">
   <b>Tools I Use</b>
   <br><br>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0D0D0D?style=for-the-badge&logo=visualstudiocode&logoColor=F5C16C" alt="Visual Studio Code" />
-  <img src="https://img.shields.io/badge/Git-0D0D0D?style=for-the-badge&logo=git&logoColor=C0392B" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=F5C16C" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" alt="Visual Studio Code" title="Visual Studio Code" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" alt="Git" title="Git" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" alt="GitHub" title="GitHub" />
 </p>
 
 ---
@@ -56,11 +64,8 @@
 ## 🔥 GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=CaioArcanjoLima&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=C0392B&text_color=E6D5B8&icon_color=D4AF37&include_all_commits=true" alt="GitHub Statistics" />
-</p>
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioArcanjoLima&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=C0392B&text_color=E6D5B8" alt="Most Used Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=CaioArcanjoLima&show_icons=true&locale=pt-br&hide_border=true&bg_color=0D0D0D&title_color=C0392B&text_color=E6D5B8&icon_color=D4AF37&include_all_commits=true" alt="GitHub Statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioArcanjoLima&layout=compact&langs_count=8&locale=pt-br&hide_border=true&bg_color=0D0D0D&title_color=C0392B&text_color=E6D5B8" alt="Most Used Languages" />
 </p>
 
 <p align="center">
@@ -69,11 +74,19 @@
 
 ---
 
+## 🐍 My Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CaioArcanjoLima/CaioArcanjoLima/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+</p>
+
+---
+
 ## 🌋 The Road Ahead
 
 ```text
-Learning       █████░░░░░  In Progress
-Java           ███░░░░░░░  One step at a time
+Learning        █████░░░░░  In Progress
+Java            ███░░░░░░░  One step at a time
 Problem Solving ███░░░░░░░  Training every day
 ```
 
